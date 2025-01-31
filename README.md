@@ -1,6 +1,6 @@
 ### Connect with me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/nikolay-mihalev-b33005298)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)]([www.linkedin.com/in/nikolay-mihalev-b33005298/])
 
 ### Skills
 
