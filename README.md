@@ -70,5 +70,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nikolaymihalev&show_icons=true&theme=transparent&locale=en&hide_border=true&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolaymihalev&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=nikolaymihalev&show_icons=true&theme=transparent&hide_border=true&count_private=true)
