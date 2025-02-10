@@ -35,8 +35,8 @@
   <img src="" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/angular.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/angular.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg">
   <img src="" width="55">
 </picture>
 <picture>
