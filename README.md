@@ -5,33 +5,28 @@
 ### Skills
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/cs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/cs-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
   <img src="" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/dotnet-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/dotnet-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg">
   <img src="" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/mssqlserver-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img src="" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img src="" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/html-light.svg">
-  <img src="" width="55">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/css-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   <img src="" width="55">
 </picture>
 <picture>
@@ -40,28 +35,28 @@
   <img src="" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
   <img src="" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/docker-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
   <img src="" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/jenkins-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Light.svg">
   <img src="" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg">
   <img src="" width="55">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/onemarc/tech-icons/blob/main/icons/git-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
   <img src="" width="55">
 </picture>
 
