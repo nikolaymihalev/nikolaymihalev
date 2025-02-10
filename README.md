@@ -45,6 +45,11 @@
   <img src="" width="55">
 </picture>
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Light.svg">
+  <img src="" width="55">
+</picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Light.svg">
   <img src="" width="55">
